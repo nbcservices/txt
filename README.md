@@ -1,4 +1,3 @@
-
-🖥️ IP: 79.137.203.164
+🖥️ IP: 85.192.41.196
 👤 Login: root
-🔑 Password: kFEwotcX61Ia
+🔑 Password: QP8lPb8CjCEd
